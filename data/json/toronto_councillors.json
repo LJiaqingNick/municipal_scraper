@@ -1,0 +1,1393 @@
+[
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Vincent Crisanti",
+    "first_name": "Vincent",
+    "last_name": "Crisanti",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Crisanti@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2023/01/968e-2216710W01CouncillorVincentCrisanti2-500x625.jpg",
+    "bio": "\nCouncillor Vincent Crisanti is a long-serving member of public service, having previously served as City Councillor for Ward 1 \u2013 Etobicoke North for two terms (2010-2018) and in 1995 prior to amalgamation. He was recently elected to serve again.\nHe sits on various committees and boards, including the Mayor\u2019s Planning and Housing Committee, Budget Committee, and previously as one of Mayor John Tory\u2019s deputy mayors. Councillor Crisanti is a passionate advocate for strong neighbourhoods, healthy communities, dependable transit infrastructure, and economic growth.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Etobicoke North",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C55\nToronto, ON M5H 2N2\nTelephone: 416-397-9255\nEmail: Councillor_Crisanti@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Etobicoke North Constituency Office\n2141 Kipling Ave., Suite 11\nToronto, ON M9W 4K8\nHours of Operation: Monday to Friday 10:00 a.m. - 4:00 p.m.\nTelephone: 416-394-5820"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-1/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:02:18",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Stephen Holyday",
+    "first_name": "Stephen",
+    "last_name": "Holyday",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_holyday@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9812-Cllr-Holyday-web.jpg",
+    "bio": "\nCouncillor Stephen Holyday has been the City Councillor for Ward 2 \u2013 Etobicoke Centre since 2018, and previously Ward 3 \u2013 Etobicoke Centre since December 2014. In 2022, Councillor Holyday was appointed as Toronto City Council\u2019s Deputy Speaker, and Chair of the Etobicoke York Community Council.\nCouncillor Holyday is Chair of the Audit Committee, Chair of the Corporations Nominating Panel, and Vice Chair of the General Government Committee. Councillor Holyday is a member of the Toronto Transit Commission, the Board of Directors of Toronto Hydro, the Board of Directors of the Hockey Hall of Fame, and the Board of Directors of the Canadian National Exhibition Association where he serves as a Vice-President.\nStephen Holyday\u2019s past leadership roles include appointment as Deputy Mayor during his first Council term in 2017, reappointment as Deputy Mayor for the 2018 \u2013 2022 Council term, Chair of the Special Committee on Governance, Vice Chair of the Public Works and Infrastructure Committee, Vice Chair of the Employee and Labour Relations Committee, Vice Chair of the Exhibition Place Board of Governors, and serving on the Toronto Atmospheric Fund Board of Directors.\nBefore being elected to public office, from 1999 to 2014 Stephen Holyday was a member of the Ontario Public Service, which included being Manager, Service Management, at the Ontario Ministry of Energy.\u00a0 He holds a Bachelor of Technology in Architectural Science from Ryerson University.\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Etobicoke Centre",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite B26\nToronto, ON M5H 2N2\nTelephone: 416-392-4002\nEmail: councillor_holyday@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-2/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:02:31",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Amber Morley",
+    "first_name": "Amber",
+    "last_name": "Morley",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Morley@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9772-Cllr-Morley-web.jpg",
+    "bio": "\nCouncillor Amber Morley was elected to represent Ward 3, Etobicoke-Lakeshore on Toronto City Council on October 24th 2022.\nFor over 20 years, Councillor Morley has been working on behalf of the residents of Etobicoke-Lakeshore, while pursuing advocacy at all levels of government. Amber has used her voice to bring attention to issues such as poverty reduction, youth equity, good governance and access to city spaces and services. As the Director of the South Etobicoke Youth Assembly at LAMP CHC, Amber organized, advocated, and fought alongside local young people to advance the needs and aspirations of peers and neighbours in her community.\nAmber\u2019s passion and belief in local impact led her to the position of Administrative Assistant to Councillor Peter Milczyn in what was then Ward 5, followed by the position of Constituency Assistant for Ward 4 Etobicoke-Centre in 2016. During the COVID-19 pandemic Amber rejoined the team at LAMP CHC, coordinating the South and Central Etobicoke Vaccine Engagement Team (SEVET) in collaboration with local ambassadors and the City of Toronto.\nAmber\u2019s family instilled in her the values of intention, inclusion, love and respect, which guide her to this day. As your City Councillor, Amber is working to build an equitable and inclusive community for all.\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Etobicoke-Lakeshore",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C48\nToronto, ON M5H 2N2\nTelephone: 416-397-9273\nEmail: Councillor_Morley@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-3/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:02:47",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Gord Perks",
+    "first_name": "Gord",
+    "last_name": "Perks",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_perks@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/97c9-Cllr-Perks-web.jpg",
+    "bio": "\nIn his work as Toronto City Councillor, Gord is an advocate for affordable housing, childcare, public transit, vibrant public spaces, responsible development, and safer streets for pedestrians and cyclists.\nGord has been a member of the City\u2019s Budget, Parks and Environment, Planning and Growth Management, Public Works and Infrastructure, Planning and Housing, Affordable Housing and Tenants Issues Committees and has chaired the Subcommittee on Climate Change Mitigation and Adaption and Toronto & East York Community Council. He has also sat on the Special Committee on Governance, Tribunal Nominating Panel, Toronto Atmospheric Fund, Board of Health, Toronto Drug Strategy, Board of Governors for Exhibition Place, Toronto Public Library Board, Golden Horseshoe Food and Farming Alliance, and the Greater Toronto Area\nAgricultural Action Committee.\nGord Perks was first elected to represent Parkdale-High Park in 2006. Prior to becoming a Councillor, Gord worked in the environmental movement from 1987 to 2005 with Pollution Probe, Greenpeace Canada, the Better Transportation Coalition, and the Toronto Environmental Alliance. His work was fundamental to Toronto\u2019s blue and grey box program, smog plan, and pesticide by-law. He led the campaign for better transit that helped usher in the Ridership Growth Strategy and Transit City. Gord has also been a childcare worker, a janitor, a newspaper delivery kid, a Zamboni driver, and (briefly) a coal miner.\nGord is the principal author of the Canadian Green Consumer Guide, one of Canada\u2019s bestselling non-fiction books. He has previously worked as an Environment columnist for Eye Weekly and was an Adjunct Professor with the University of Toronto\u2019s Environmental Studies Department.\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Parkdale-High Park\n",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A14\nToronto, ON M5H 2N2\nTelephone: 416-392-7919\nEmail: councillor_perks@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-4/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:03:03",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Frances Nunziata",
+    "first_name": "Frances",
+    "last_name": "Nunziata",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_nunziata@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/8fcc-Cllr-Nunziata-web.jpg",
+    "bio": "\nFrances Nunziata has been a resident of the former City of York since 1963. Her political career began in 1985 when she was elected as school board trustee for the City of York School Board. In 1988, she successfully ran for a seat on the former City of York\u2019s Council, where she uncovered a scandal which would see the City selling part of Fairbank Park to a developer to build condominiums. Frances took material showing the questionable process at which the deal was made to the public, leading to a police investigation of several local politicians and the imprisonment of two York City Councillors, one Metro Toronto Councillor, and the developer.\nFrances was elected for a second term of Council in 1991, and then in 1994, ran for Mayor of the former City of York and despite being seen as the \u201cunderdog\u201d, won. She went on to serve as Mayor of York until amalgamation. With the creation of the amalgamated City of Toronto in 1997, Frances successfully ran for a seat on Toronto City Council. Frances has continued to serve as City Councillor and was re-elected on October 24, 2022 for another term.\nDuring her career Frances has sat on many Boards and Commissions including the Toronto Police Services Board and Board of Directors of Toronto Community Housing and has served as Council Speaker since 2010.\nAccomplishments include:\n\nsuccessfully advocating for a George Brown College Campus in Ward 5\nworking with the Province to negotiate an UP Express stop in Weston\nworking with local BIAs and residents\u2019 organizations to advance the needs of the community\nadvocating for affordable housing\naddressing the day-to-day issues of constituents\nspearheading the move towards bringing management of TCHC buildings in-house\n\nLocally, Frances serves on the Weston Village BIA, the Mount Dennis BIA, Weston Village Residents Association, the Syme 55+ Centre Board of Directors and the George Bell Arena Board of Management.\nThroughout her years in politics, Frances has proven herself to be a strong advocate for the best interests of her Ward, frequently bringing the issues of the community to the floor of City Council. She is also a firm believer in listening to those she serves, and holds many community consultation meetings on development applications, liquor license applications, and park improvements, to name a few. She loves the community she serves and it shows through her dedication to the people of York South\u2014Weston.\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/York South-Weston",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C49\nToronto, ON M5H 2N2\nTelephone: 416-392-4091\nEmail: councillor_nunziata@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Community Office\n2221 Keele Street, Unit 102\nToronto, ON M6M 3Z5\nTelephone: 416-338-0220"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-5/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:03:21",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "James Pasternak",
+    "first_name": "James",
+    "last_name": "Pasternak",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_pasternak@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/96dc-Cllr-Pasternak-poster.jpg",
+    "bio": "\nToronto City Councillor James Pasternak was elected to City Council in 2010 and was re-elected in 2014 and in 2018. Councillor Pasternak sits on the Mayor\u2019s Executive Committee as the current Chair of the Infrastructure and Environment Committee and he is also Chair of the North York Community Council.\nDuring his time in office, Councillor Pasternak has been committed to fiscal responsibility while investing in communities. Councillor Pasternak has championed investing in city parks, recreation programs, services for seniors, basement flooding protection program, public realm projects and road infrastructure.\nHe has hosted numerous community meetings on topics such as transit, community safety, the arts, affordable housing, traffic issues, basement flooding and budgeting priorities. Councillor Pasternak is credited with driving a number of transformative policy issues at City Hall. His work lead to the updating of the 15 year old City of Toronto Anti-Discrimination Policy; investigating the role of the City in prohibiting hate rallies from taking place on City property, the creation of Toronto\u2019s Tennis Excellence Framework; the move to expand Toronto\u2019s student nutrition program; study the safety and privacy issues of drone aircraft; and bring the issue of e-cigarettes onto the Toronto Board of Health agenda.\nBefore coming to City Hall, James Pasternak was elected as a Toronto District School Board Trustee where he lead community initiatives such as special education and seeing the establishment of Toronto\u2019s only Afrocentric Alternative School. Councillor Pasternak has earned degrees from the London School of Economics and Political Science, the University of Western Ontario and York University.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/York Centre\n",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A22\nToronto, ON M5H 2N2\nTelephone: 416-392-1371\nFax: 416-392-7299\nEmail: councillor_pasternak@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Constituency Office\nBy appointment only\n2800 Keele Street, Unit 1\nToronto, ON M3M 2G5"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-6/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:03:32",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Anthony Perruzza",
+    "first_name": "Anthony",
+    "last_name": "Perruzza",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_perruzza@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9937-Cllr-Perruzza-web.jpg",
+    "bio": "\nAnthony Perruzza immigrated to Canada at age nine. His mother did factory shift work, and his father was a carpenter. Humber River-Black Creek is his lifelong home and where he\u2019s raising his family.\nAn experienced representative, Councillor Perruzza was a Trustee in the Metro Toronto Separate School Board (1985-88), a North York Councillor (1988-90), and a Member of Provincial Parliament (1990-95). He served as the Toronto City Councillor of Ward 8 from 2006 until 2018, when he was elected to serve the new mega-Ward 7.\nRe-elected as City Councillor for Ward 7 in 2022, Anthony Perruzza has dedicated his life to serving Humber River-Black Creek. His extensive involvement in the community includes being a member of Toronto\u2019s Etobicoke & York Community Council, the Infrastructure & Environment Committee, the Exhibition Place Board of Governors, and an Executive Member of the Toronto & Region Conservation Authority.\nAfter decades of leadership, Anthony Perruzza brings invaluable experience and grassroots knowledge to the Councillor\u2019s office. He is a strong and reliable voice for affordability, accessible services, equity, and the environment.\nAnthony has worked hard to enhance playgrounds and rebuild roads and sewers. He supported the subway extension to Vaughan to connect people across the city and get them where they needed to go. Through his work as the Poverty Reduction Advocate, Anthony always advocated for more local jobs and opportunities for youth. He has also fought for more seniors to receive property tax and utility bill rebates. Anthony has helped repair and upgrade rental housing for years and organized park cleanups, tree plantings, and toy drives for families. Through Anthony\u2019s dedication, the Yorkwoods Library and Theatre are being renovated, a new community centre is well on its way for Weston and Sheppard, and he\u2019s advancing the Jane-Finch Community Hub and Centre for the Arts.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Humber River-Black Creek",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C41\nToronto, ON M5H 2N2\nTelephone: 416-338-5335\nFax: 416-696-4144\nEmail: councillor_perruzza@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Community Office\n2350 Finch Ave West Unit C\nToronto, ON M9M 2C7"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-7/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:03:42",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Mike Colle",
+    "first_name": "Mike",
+    "last_name": "Colle",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_colle8@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/98c1-Cllr-Colle-web.jpg",
+    "bio": "\nMike Colle immigrated to Canada from his native Italy at the age of five and grew up in\u00a0Downtown Toronto\u2019s College Street area. Mike Colle went on to serve the people of Eglinton-Lawrence as a municipal councillor and local MPP for three decades.\nAs MPP for Eglinton-Lawrence, Mike spearheaded campaigns to save historic heritage sites like, the Eglinton Theatre, Postal Station K and the Columbus Centre. As a former Metro Councillor and TTC chair, Mike lead the charge to build the Eglinton Subway and fought to get it funded and restarted as the Eglinton Crosstown which is presently under construction.\nPrior to being elected MPP in 1995, Mike served as a councillor for the City of York and\u00a0Metropolitan Toronto, where he served in roles as TTC commissioner, TTC Chair from 1988 to\u00a01994. Prior to public service, Mike taught history and economics at Michael Power High school\u00a0and St. Michael\u2019s college School, where he coached football for 18 years.\nMike and his wife Sharon have four children and six grandchildren. Mike is a life-long marathon\u00a0runner, with a personal best time of 3:29. He continues to run in the Scotiabank Waterfront\u00a0Marathon each year.\nAs a former MPP and Metro Councillor, Mike has successfully championed:\n\nAuto-Insurance Reform for victims of domestic violence\nThe protection of the gas station attendants from Gas and Dash\nRed light cameras at dangerous intersections\nAED\u2019s in public places\nAbolition of the Ontario Municipal Board\nMaking June 5 the Tom Longboat Day\nDesignating the month of May, Jewish Heritage month in Ontario\nThe Oak Ridges Moraine protection legislation\nCreation of the one million acre Ontario Green Belt\nBill 141, Pregnancy and Infant Loss Awareness, Research and Care as well as protection\u00a0for families\n\n(information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Eglinton-Lawrence",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A20\nToronto, ON M5H 2N2\nTelephone: 416-338-2500\nEmail: councillor_colle8@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Constituency Office\n2952 Dufferin St.\nToronto, ON M6B 3S9\nTelephone: 416-338-0008"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-governmenthttps://www.toronto.ca/city-government/council/members-of-council/councillor-ward-8/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:03:54",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Alejandra Bravo",
+    "first_name": "Alejandra",
+    "last_name": "Bravo",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Bravo@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/904a-Cllr-Bravo-web.jpg",
+    "bio": "\nAlejandra Bravo was elected as the City Councillor for Ward 9\u2014Davenport in 2022. A Ward 9 resident for over two decades, she first became active in her children\u2019s school in 2000, becoming the Chair of the Davenport TDSB Ward Council.\nAlejandra has a 25-year history of leadership with civil society organizations, including extensive governance experience with boards ranging from Art Starts, a community arts organization operating in under-serviced neighbourhoods, to serving on the Toronto Board of Health.\nAn adult educator and facilitator by profession, Alejandra\u2019s work has been focused on helping communities understand and influence the government decisions that impact them. She\u00a0was the Director of Leadership and Training at the Broadbent Institute, where she built training capacity across Canada and led the Institute\u2019s work on democratic renewal. She was also the Director of the Power Lab, a leadership learning initiative co-created with the Atkinson Foundation that is focused on local organizing for a more fair economy.\nAlejandra was also previously the Manager of Leadership and Learning at Maytree, where for a decade she designed and delivered innovative political and civic training for emerging and diverse leaders.\nAlejandra is a graduate of the University of Toronto and the Ontario Institute for Studies in Education. Born in Chile, Alejandra moved to Canada with her family as a refugee when she was a child. In addition to English she is fluent in Spanish, French, and Portuguese.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Davenport",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C42\nToronto, ON M5H 2N2\nTelephone: 416-392-7012\nEmail: Councillor_Bravo@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-9/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:04:05",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Ausma Malik",
+    "first_name": "Ausma",
+    "last_name": "Malik",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Malik@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/8f46-Cllr-Malik-web.jpg",
+    "bio": "\nAusma Malik is your City Councillor for Ward 10 \u2013 Spadina\u2013Fort York.\nThe first hijab-wearing Muslim woman elected to public office in Canada, Councillor Malik is known for staring down hate and inspiring hope for racial justice, economic reconstruction, and democratic renewal.\nAs Toronto City Councillor, Ausma brings her local knowledge and experience to be a champion for affordable housing, vibrant public spaces, improved public transit, and safer streets for everyone.\nAusma has spent her life working to build a better city, more caring communities and inclusive civic spaces. From student organizing to environmental activism, from child care advocacy and education accessibility to policy innovation that improves lives, she has experienced first-hand the power of working together.\nFrom 2014 to 2018, Ausma served our downtown communities as a Trustee elected to the Toronto District School Board, where she was successful in getting Jean Lumb Public School built \u2013 the first new downtown public school in over twenty years.\nFrom 2016 to 2022, Ausma was the Director of Advocacy and Organizing at the Atkinson Foundation, where she collaborated with grassroots organizers, policy innovators, and other movement builders to advocate for decent work and a fair economy.\nAusma is proud to serve Ward 10, Spadina\u2013Fort York, and knows we can do more in Toronto to bring people in, not push people out. Ausma\u2019s vision for Toronto is a green, just, and caring city \u2013 a Toronto that works for all of us, includes all of us and gives voice to all of us.\nName pronunciation guide: USS-muh MAH-lick\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Spadina-Fort York",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C54\nToronto, ON M5H 2N2\nTelephone: 416-392-4044\nEmail: Councillor_Malik@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-10/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:04:21",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Dianne Saxe",
+    "first_name": "Dianne",
+    "last_name": "Saxe",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Saxe@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/981d-Cllr-Saxe-web.jpg",
+    "bio": "\nDr. Dianne Saxe is one of Canada\u2019s most respected environmental and energy lawyers, with decades of experience as a non-partisan expert and advocate for municipalities, businesses, non-profits and individuals.\nCouncillor Saxe was the last Environmental Commissioner of Ontario, the independent guardian of the Environmental Bill of Rights. In 2019, after she delivered 17 acclaimed reports to the Legislature on energy, environment, and climate, Doug Ford abolished her office. These reports continue to remain highly relevant.\nCouncillor Saxe is a climate champion who walks the talk. Her bike and the TTC are her primary means of transportation, and she has been a vegetarian for 50 years. She is a member of Canada\u2019s Climate Caucus. Until her election to City Council in October 2022, she hosted the popular Green Economy Heroes podcast, and ran SaxeFacts Law Professional Corporation.\nCouncillor Saxe holds multiple accreditations and awards, including a Ph.D. in Law and in Environmental Studies (Hon.), a Law Society Medal for exemplary leadership in environmental law, a Clean 50 award, an Osgoode Hall Law Alumni Gold Key for Lifetime Achievement, and a Global Competent Board Designation. She has successfully run her own small business, a multi-million dollar public office, and sat on the boards of both charities and for-profit corporations. At the University of Toronto, she is a Senior Fellow of Massey College, and adjunct faculty of the School of the Environment.\nFrom November 2020 to August 2022, Councillor Saxe served as Deputy Leader of the Green Party of Ontario, and was principal author of its Roadmap to Net Zero. She also contributed to its Mental Health and Housing policies. She sits at City Council as an independent.\nCouncillor Saxe is proud to serve Ward 11 \u2013 University-Rosedale, where she has deep roots and wide networks. She was born in the riding, as were three other generations of her family. She went to school here and worked on Beverley, Bathurst and Bay. Her synagogue, community centre, and volunteer organizations are in the ward along with her favourite shops and restaurants. Councillor Saxe can often be seen cycling through the ward, or in local parks and ice rinks with her grandchildren.\nAgainst steep odds, Councillor Saxe has protected people, communities, and the natural systems on which our lives depend. She is a champion of smart housing policy, the new climate economy, and transit and mobility solutions. She will fight to make Toronto a prosperous and just city while protecting nature and keeping public spaces in good repair.\n(information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/University-Rosedale",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C47\nToronto, ON M5H 2N2\nTelephone: 416-392-4009\nEmail: Councillor_Saxe@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-11/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:04:38",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Josh Matlow",
+    "first_name": "Josh",
+    "last_name": "Matlow",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_matlow@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/12/9504-9808-jmatlow-web.jpg",
+    "bio": "\nJosh Matlow lives in Midtown Toronto with wife Melissa, and daughter Molly.\nJosh served as co-director of Earthroots, a Toronto-based environmental non-governmental organization where he championed efforts to achieve protection legislation for the Oak Ridges Moraine \u2014 the Oak Ridges Moraine Conservation Act, and Ontario\u2019s Greenbelt. He has also been a radio broadcaster and columnist.\nAs St. Paul\u2019s School Trustee (2003-2010), he initiated a \u201cGreen Grid\u201d project for renewable energy generators (such as solar panels) on school rooftops, homework policy reform, campaigned to keep Toronto\u2019s school pools open, advocated for governance and accountability reform, demanded genuine consultation processes for his community, initiated a \u201cFinancial Literacy\u201d curriculum to teach students about matters including credit cards, budgets and the stock market, worked with his community to rebuild North Toronto Collegiate Institute and championed initiatives to curb youth violence.\nAs a community advocate and city councillor, Josh has fought for the improvement and expansion of local parks and public space, high quality and affordable housing and childcare, tenants who need a strong voice, new aquatic and community centres, evidence-based transit including relief for the overcrowded subway system, support for local business areas, farmers markets and arts and cultural events, revitalization of neighbourhoods, improve the Official Plan to put a focus on residents\u2019 quality of life, a strategic plan for Toronto\u2019s seniors to create an Age-Friendly city, the Youth Equity Strategy to address youth violence at its roots, championed efforts to bring a proactive approach to community safety, advocated for action by the City and police to prevent deaths on our city\u2019s streets, campaigned for solutions to gridlock and has been a leader on governance reform at every level of government. Josh brings a strong, independent and facts-based perspective to every policy debate.\nKeeping residents engaged and informed is an important priority for Josh. To sign up for his monthly updates, please visit\u00a0www.joshmatlow.ca.\nJosh Matlow has been a Toronto Star\u2019s \u201cNewsmakers of the Year\u201d and \u201cPeople to Watch\u201d, The Village Post and North Toronto Post Magazines: Toronto\u2019s Best Public Official, Town Crier\u2019s \u201cPillar of the Community\u201d and Now Magazine\u2019s \u201cTop Activists of the Year\u201d. He has written articles, columns and opinion pieces for the Toronto Sun, Toronto Star, Globe and Mail and Town Crier Newspapers, Post City Magazines, and was a weekly co-host on Toronto talk-radio stations, AM 640 and CIUT. Josh wrote a weekly column,\u00a0City Hall Diary, every Monday about City Hall in the Toronto Star and hosted the Newstalk 1010 radio show,\u00a0The City with Josh Matlow.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Toronto-St. Paul\u2019s",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A17\nToronto, ON M5H 2N2\nTelephone: 416-392-7906\nEmail: councillor_matlow@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-12/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:04:55",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Chris Moise",
+    "first_name": "Chris",
+    "last_name": "Moise",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Moise@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/981c-Cllr-Moise-web.jpg",
+    "bio": "\nChris Moise (he/him) was elected the City Councillor for Ward 13 \u2013 Toronto Centre on October 24, 2022. Chris has spent over two decades living and working throughout communities in Ward 13 and is committed to improving safety, transit, housing affordability and social services while fostering equity, fairness and inclusion in all aspects of city life.\nPrior to being elected to City Council, Chris served as a Toronto District School Board Trustee for six years standing up for and investing in our schools, working with local families and stakeholders, and ensuring that our children and our communities could fulfill their potential and achieve a brighter future. He also worked on the frontlines as a police officer in Waterloo, and as an addictions counsellor at St. Michael\u2019s Hospital building deep roots in our communities, and providing care and assistance to people in need. He knows first-hand how to bring neighbourhoods, communities, and first responders closer together to improve our safety while fostering more equity, fairness, and inclusion.\nAs a small business owner in the St. Lawrence Neighbourhood for over 17 years, Chris understands the challenges of running a local business and knows firsthand their importance in enhancing and preserving vibrant local neighbourhoods. Chris is honoured to have been appointed as the small business advocate on the Economic and Community Development Committee and looks forward to being championing our recovery and rebuild efforts.\nChris is here first and foremost to serve his constituents and is committed to improving our city and making our downtown better. As a long-time resident of Toronto Centre, he knows just how much we need better transit, smarter development, improved infrastructure, and revitalized amenities and services.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Toronto Centre",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A5\nToronto, ON M5H 2N2\nTelephone: 416-392-7903\nEmail: Councillor_Moise@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Toronto Centre Constituency Office\n329 Parliament Street\nToronto, ON M5H 2N2\nTelephone: 416-392-7904"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-13/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:05:11",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Paula Fletcher",
+    "first_name": "Paula",
+    "last_name": "Fletcher",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_fletcher@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/910e-Cllr-Fletcher-web.jpg",
+    "bio": "\nPaula Fletcher has a long record of service to Toronto-Danforth residents. She first became involved as a leader in the East End Parent Network and was then elected as the TDSB Trustee in 2000. Paula was elected as City Councillor for the former Ward 30 in 2003 and has served as Councillor since. She was re-elected in 2018 and again in 2022 to represent the over 106,000 residents of Ward 14 Toronto-Danforth, which extends from the Don Valley Parkway to Coxwell Ave and from Lake Ontario to just north of O\u2019Connor Drive.\nPaula is a strong progressive voice at City Hall. She\u2019s focused on creating affordable housing, improving public transit, parks and other public spaces, fighting the climate crisis along with enhancing community and road safety for all users. Paula works with residents, community groups and local business owners to build vibrant, healthy neighbourhoods.\nPaula was appointed to a number of key committees and boards in August 2023. This includes the Executive Committee, responsible for major City-Wide issues and key priorities, and the Economic & Community Development Committee.\nShe was reappointed as Chair of the Film, Television and Digital Media Board and as Mayor Chow\u2019s designate on the Boards of Toronto Community Housing, CreateTO and TOLive.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Toronto-Danforth",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C45\nToronto, ON M5H 2N2\nTelephone: 416-392-4060\nFax: 416-397-5200\nEmail: councillor_fletcher@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-14/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:05:23",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Jaye Robinson",
+    "first_name": "Jaye",
+    "last_name": "Robinson",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_robinson@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9692-councillor-robinson.jpg",
+    "bio": "\nJaye Robinson is the City Councillor for Ward 15\u2014Don Valley West. Currently, she serves as Vice-Chair of the Economic and Community Development Committee and on the Board of Directors for the Art Gallery of Ontario, Leaside Memorial Gardens Arena, and Toronto Symphony Orchestra. Jaye has also been named to a special role leading the 2026 FIFA World Cup in Toronto and as the Mayoral Designate to the Toronto Hydro Corporation Board of Directors.\nBefore running for municipal office, Jaye was a senior manager in economic development at the City of Toronto for over 20 years. With an entrepreneurial approach, she successfully merged arts and community building initiatives with economic development strategies to launch a vibrant roster of annual events that generated significant financial benefits for the City. Her resume includes Nuit Blanche, Summerlicious, and Winterlicious.\nFrom 2018-2022, Jaye served as Chair of the Toronto Transit Commission (TTC) and during the 2014-2018 City Council term, as Chair of the Public Works and Infrastructure Committee. Over her three terms as a City Councillor, Jaye has moved hundreds of motions to improve traffic and pedestrian safety, build local parks, and enhance the beautiful neighbourhoods of Ward 15.\nA believer in transparent governance and evidence-based decision making, Jaye strives to make municipal politics more accessible for residents and consult with the neighbourhoods she represents. At City Hall, she continues to champion planning reform, road safety, public transit, congestion management, environmental initiatives, improving Toronto\u2019s fiscal health, and protecting trees and green spaces.\nJaye lives in Don Valley West with her family, three sons, and cocker spaniel, Sadie.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Don Valley West",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A12\nToronto, ON M5H 2N2\nTelephone: 416-395-6408\nEmail: councillor_robinson@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-15/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:05:38",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Jon Burnside",
+    "first_name": "Jon",
+    "last_name": "Burnside",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Burnside@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9923-Cllr-Burnside-web.jpg",
+    "bio": "\nJon Burnside was elected in 2022 as City Councillor for Ward 16 (Don Valley East) where he has been a resident for nearly two decades. Constituents in Wynford-Concorde and Flemingdon Park already know Jon as he was City Councillor for the previous Ward 26 (Don Valley West) from 2014 to 2018.\nAfter graduating from the University of Western Ontario, Jon served for 10 years as a Toronto Police Officer, working in diverse communities, including Flemingdon Park. Jon has also been an entrepreneur \u2013 starting his own healthy food delivery service which he successfully operated in the GTA for 14 years until his election to City Council.\nSince his early 20\u2019s, Jon has been a tireless community leader and builder \u2013 he is especially passionate about helping underserved communities. This includes spearheading the creation of free house league hockey in Flemingdon Park. Besides finding sponsors Jon engaged Toronto Police Services to operate the league which is now in its 15th season.\nJon\u2019s other passion is rescuing dogs from across North America. Over the years he has welcomed 10 rescue dogs to his home. Current residents are Moonshine and Indy.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Don Valley East",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite B33\nToronto, ON M5H 2N2\nTelephone: 416-397-9256\nEmail: Councillor_Burnside@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Don Valley East Constituency Office\n895 Lawrence Ave E, Suite 205\nToronto, ON M3C 3L2"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-16/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:05:54",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Shelley Carroll",
+    "first_name": "Shelley",
+    "last_name": "Carroll",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_carroll@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/12/8e12-Cllr-Carroll-web.jpg",
+    "bio": "\nShelley Carroll is the City Councillor for Ward 17\u2014Don Valley North.\nShelley got her start in politics as a parent-advocate when she saw the detrimental effects that education cuts were having on her own children. Her tireless defence of public education led her to be elected as a School Board Trustee in 2000 and earned her a Queen\u2019s Golden Jubilee Medal.\nShelley was first elected to City Council in 2003. In 2006, Shelley was elected by her peers to serve as Chair of the Budget Committee. She utilized her financial background to deliver four balanced budgets in the thick of the global financial crisis, making Toronto financially sustainable for the first time since amalgamation.\nShelley\u2019s deep commitment to building a more liveable city for all is reflected in the diverse boards and committees she has served on in her time as Councillor, including the TTC Board, Toronto Atmospheric Fund, and Film Board. Shelley also served on the Toronto Police Services Board, and recently worked to implement the City\u2019s first alternative approach to policing, the Toronto Community Crisis Service.\nShelley\u2019s first and foremost duty is to her constituents. She has been a proud champion of increasing opportunities for direct democracy in her ward, including implementing Toronto\u2019s first-ever Participatory Budgeting process. Shelley has also secured a number of improvements for her community, including additional park amenities, affordable housing spaces, numerous traffic and pedestrian safety improvements, and the new Ethennonnhawahstihnen\u2019 Community Centre, the first community recreation centre and library branch in Toronto to be named in collaboration with the Huron-Wendat Nation.\nShelley\u2019s focus for this term is to continue working hand-in-hand with the community to build a Don Valley North that is liveable and affordable for generations to come.\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Don Valley North",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A3\nToronto, ON M5H 2N2\nTelephone: 416-338-2650\nEmail: councillor_carroll@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-governmenthttps://www.toronto.ca/city-government/council/members-of-council/councillor-ward-17/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:06:05",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Lily Cheng",
+    "first_name": "Lily",
+    "last_name": "Cheng",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Cheng@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2023/03/94e3-2216710W18CouncillorLilyCheng2-500x625.jpg",
+    "bio": "\nLily Cheng is the Councillor for Ward 18 Willowdale, taking office on November 15, 2022. A Willowdale resident for over a dozen years, Lily is a passionate, visionary leader in the community. Four years ago, Lily co-founded We Love Willowdale (WLW), a movement created after the tragic van attack to help the community grieve and heal. Her journey as a community organizer began 9 years ago with the founding of North York Moms, a thriving community on Facebook of over 11,000 moms.\nLily has tirelessly worked for Willowdale for many years including spearheading the Willowdale Covid Response Network to support the community through the pandemic.\nLily has a track record of identifying problems in Willowdale and taking action.\u00a0 Her advocacy led to the establishment of a much needed walkable Yonge and Sheppard EarlyOn Child and Family Centre. She has also established programs and support for challenges often overlooked by the government including seniors accessing grocery shopping support during the pandemic and food insecurity experienced by families. During the pandemic, she addressed social isolation by expanding Willowdale Neighbours Connect, an active online community she started for the neighbourhood that has helped many feel a deeper sense of belonging in Willowdale.\nLily\u2019s greatest strength is described as being able to inspire connectivity and participation in Willowdale for the greater good and building the infrastructure necessary to make things happen.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Willowdale",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite B36\nToronto, ON M5H 2N2\nTelephone: 416-392-0210\nEmail: Councillor_Cheng@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-18/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:06:22",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Brad Bradford",
+    "first_name": "Brad",
+    "last_name": "Bradford",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_bradford@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/973a-Cllr-Bradford-web.jpg",
+    "bio": "\nBrad Bradford is your City Councillor for Ward 19, Beaches-East York.\nFirst elected in 2018 as one of the youngest members of Council, Brad believes that as our City grows and prospers we must work hard to ensure the benefits are felt by everyone. By bringing a pragmatic, non-partisan approach to local government, Brad supports community-led change throughout Beaches East-York.\nAt City Hall, Brad serves as the Chair of the Planning and Housing Committee, Vice Chair of Toronto and East York Community Council (TEYCC), and as member of the Toronto Arts Board and CreateTO Board. With experience as an urban planner, he has a passion for addressing local issues, advocating for those typically left out of the process and making neighbourhoods more accessible. His priorities are to increase affordability and access to housing, make our streets safer, and revitalize Toronto\u2019s main streets.\nWhether it\u2019s through the regular community meetings or the bi-weekly newsletter, Brad wants to engage with all residents and work with our local leaders to support the communities that make Beaches East-York special. Brad, his wife Kathryn and daughter Briar are proud to call Beaches-East York home.\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Beaches-East York",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite B28\nToronto, ON M5H 2N2\nTelephone: 416-338-2755\nFax: 416-392-7233\nEmail: councillor_bradford@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Constituency Office\n2118 Danforth Ave\nToronto, ON M4C 1J9"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-governmenthttps://www.toronto.ca/city-government/council/members-of-council/councillor-ward-19/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:06:38",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Michael Thompson",
+    "first_name": "Michael",
+    "last_name": "Thompson",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_thompson@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9182-Cllr-Thompson-web.jpg",
+    "bio": "\nNow in his sixth term as Councillor,\u00a0Michael Thompson is widely regarded as one of Toronto\u2019s hardest working and most effective political leaders.\nUnder the banner of \u201cgetting things done,\u201d Michael is known to his constituents as a community builder committed to bringing people together in a spirit of collaboration. He has led the formation of local community associations, youth leadership initiatives and Business Improvement Areas. To engage residents in his ward, he holds regular public meetings and annually resolves hundreds of local and city-wide issues.\nIn addition to a strong focus on serving his constituents, Michael\u2019s commitment to developing Toronto\u2019s economy is longstanding. He regularly draws upon his widespread network of business relationships to help the city to enhance business retention, promote economic growth, advance equity and increase private-sector employment. As former Chair of the city\u2019s Economic and Community Development Committee, he convened an advisory group of leaders in business, labour, academia and the not-for-profit sectors to advise the city on its economic development strategies and priorities. The group\u2019s Collaborating For Competitiveness\u00a0 recommendations were adopted in full by the city and incorporated into the city\u2019s operations. Locally, he spearheaded the creation of the Wexford Heights Business Improvement Area and established a Job Fair that each year brought thousands of job seekers together with dozens of employers.\nHis active engagement with business has helped speed the launch of new business ventures, resolved business/residential conflicts and gained business participation in a wide range of community-building initiatives. In recent years, the international connections he has developed and nurtured have played a significant role in securing billions of dollars in new investment for the city, attracting major international conferences, growing city-wide employment and contributing to a more robust economy.\nWhen the COVID-19 pandemic hit the city in 2020, Michael stepped to the forefront to educate, motivate and support city residents as they coped with unprecedented challenges. He held frequent virtual town hall meetings to ensure that residents had the best and latest expert information. Seeing pandemic recovery as an opportunity to redress previous equity failures, he convened a panel of diverse and creative leaders to ensure that the city\u2019s recovery did not leave chronically disadvantaged groups behind. The recommendations in the group\u2019s report, Building Back Stronger, were adopted by the city and incorporated into its recovery strategy.\nMichael is a firm believer in the critical value of culture as a builder of strong communities and a major contributor to Toronto\u2019s economy. When he first took office, he co-founded the Taste of Lawrence Festival, which brings together tens of thousands of people each year to experience local cuisine and performing arts. In 2013, he led the city\u2019s efforts to create a new arts and culture plan that provided a bold roadmap for cultural vitality, strengthened arts spending and launched a new era of collaboration among arts and culture groups across the city. Michael spearheaded the creation of Toronto\u2019s Music Office and served as the first Chair of the city\u2019s Music Advisory Committee. He also played a key role in efforts to attract international film and television productions, and studio investments to Toronto.\nThroughout his years on Council, Michael\u2019s unrelenting drive for public safety in the face of increased gun violence ultimately led to the development of a city-wide Community Safety Plan, a GTA-wide police task force on guns and gangs, an increase in the numbers of police officers in the street, and a young offender program that diverts young people into jobs instead of jail.\nMichael received his public school education in Scarborough and a BA in Economics from Concordia University in Montreal. Prior to entering politics, he earned his credentials as an entrepreneur in the business and financial services sector. In 2018, he successfully completed the Institute of Corporate Directors\u2019 ICD.D Directors Education Program presented by the Rotman School of Management.\nMichael is the recipient of the African Achievement Award for Excellence in Politics, the York University International Award, the Jain Society of Toronto Community Award, the Bob Marley Award and the Bob Marley Lifetime Achievement Award.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Scarborough Centre",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite B31\nToronto, ON M5H 2N2\nTelephone: 416-397-9274\nEmail: councillor_thompson@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": ""
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-21/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:06:50",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Nick Mantas",
+    "first_name": "Nick",
+    "last_name": "Mantas",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Mantas@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/99bb-Cllr-Mantas-web.jpg",
+    "bio": "\nFor over 20 years, Nick has lived, worked, and played, in Scarborough-Agincourt, Ward 22. He has gone to school with many of you, enjoyed a meal at Johnny\u2019s Hamburgers, participated in civic activities at the L\u2019Amoreaux, fought alongside you to save the Grace Hospital, and, recently, distributed masks and sanitizer to our fellow residents. At home, Nick\u2019s life also revolves around his community as he is a devoted volunteer and community leader. He is also involved with the family business \u2013 a trusted GTA company for more than 50 years.\nHaving studied in several countries, including the United Kingdom and the United States, at both undergraduate and postgraduate levels, Nick has developed both a solid academic background and heightened cultural awareness. He earned a Bachelor\u2019s degree in Economics from York University, a certificate in Islamic Finance from Durham University (UK), a Post Graduate Certificate in International Shipping Finance from the Institute of Maritime and Economic Studies, Athens (Greece) and has pursued postgraduate studies in International Relations & Government at Harvard University.\nFor the last 15 years, he has proudly and honourably served his fellow residents of Scarborough-Agincourt in several capacities. Whether through his time as a Federal constituency assistant, a policy advisor to the Senate of Canada, or as Chief of Staff for the former Ward 22 Councillor, Nick has always had the best interests of our community as his focus. Amassing a great deal of knowledge and practical know-how, he has supported and advocated for our needs at all levels of government, in business, and through non-profit advocacy work. As someone who knows and understands the challenges, goals, and concerns of our community, Nick will continue to put Scarborough-Agincourt first.\n\u200bNick\u2019s dedication to community service is demonstrated by his participation in many cultural, business, and political organizations, including being elected Chair of the Panarcadian Federation of Canada and serving as a Director of the Hellenic Canadian Board of Trade (HCBT).\u00a0 Nick\u2019s honest approach and sincerity have earned him the respect of his colleagues and community as a whole.\nDeeply committed to humanity and democracy, Nick was able to be an elections observer in Libya just after the fall of Muammar Gaddafi.\u00a0After this, he was invited to observe the elections in post-Chavez Venezuela. Nick\u2019s dedication and belief in the human spirit guided him through any perceived dangers that these environments may have posed. While most would fear for their lives, Nick saw this as an opportunity to make a difference to those who, on a daily basis, put their own lives in danger to have a taste of that which many of us take for granted. His passion and genuine nature was welcomed by the countless democracy-seekers he came across during his time in both countries.\nIn 2012, Nick was invited to the European Parliament in Brussels where he presented his thoughts on the cultural destruction in the occupied territory of Cyprus. Following this, he was a member of a delegation that presented a petition on the cultural destruction of occupied Cyprus to the Cultural Section at UNESCO.\nNick has effectively and respectably represented his community in all of his endeavors over the last many years, and continues to do so. He has kept close to his roots in Scarborough-Agincourt and his connection is sincere and unwavering. Nick will continue to serve you with dedication, passion, and humility as Councillor for Ward 22.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Scarborough-Agincourt",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A1\nToronto, ON M5H 2N2\nTelephone: 416-392-1374\nEmail: Councillor_Mantas@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Scarborough-Agincourt Constituency Office\n3601 Victoria Park Ave, Suite 406\nToronto, ON M1W 3Y3\nTelephone: 416-321-2788"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-governmenthttps://www.toronto.ca/city-government/council/members-of-council/councillor-ward-22/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:07:06",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Jamaal Myers",
+    "first_name": "Jamaal",
+    "last_name": "Myers",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "Councillor_Myers@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/9017-Cllr-Myers-web.jpg",
+    "bio": "\nJamaal Myers was elected as the councillor for Ward 23, Scarborough North on October 24th, 2022.\nJamaal was born and raised in Scarborough and regularly takes the TTC to get around his community. Having grown up in Toronto Community Housing, from a young age he understood education as a key to upward mobility and the importance of properly funded public services.\nWith the love and support of his family, access to strong public schools, loans, scholarships and summer jobs, including three summers cleaning trains at the TTC, he earned degrees from the University of Western Ontario, the London School of Economics and New York University School of Law.\nAfter graduating from NYU, he worked in New York City as a corporate lawyer at two global law firms before returning to Scarborough in 2018. For over a year, he volunteered as a community organizer and worked with residents and community groups to improve access to health care, transit, affordable housing and good jobs.\nPrior to being elected, Jamaal served as a senior lawyer at the Toronto-Dominion Bank where he worked on challenging Environmental, Social and Governance (ESG) matters including preparing for a changing climate, protecting human rights and corporate governance. He also served as Vice Chair of TAIBU Community Health Center, a director with the Scarborough Business Association and a member of the Community Police Liaison Committee for 42 Division.\nJamaal is focused on improving the quality of life, safety and affordability of neighbourhoods for residents in his beloved community of Scarborough North.\n(Information provided by the Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Scarborough North",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite A8\nToronto, ON M5H 2N2\nTelephone: 416-338-2858\nFax: 416-392-7155\nEmail: Councillor_Myers@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Constituency Office"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-governmenthttps://www.toronto.ca/city-government/council/members-of-council/councillor-ward-23/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:07:18",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Paul Ainslie",
+    "first_name": "Paul",
+    "last_name": "Ainslie",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_ainslie@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/98fc-Cllr-Ainslie-web.jpg",
+    "bio": "\nPaul is an effective member of Toronto City Council. He brings a broad perspective to City Hall, with more than 25 years of experience at the federal, provincial, and municipal levels of government.\nNewly appointed as the \u201cNight Economy Champion\u201d, Paul will strive to establish a cohesive, respectful harmony where both residents and Toronto\u2019s night economy will thrive.\nNewly elected as Chair of Toronto and Region Conservation Authority Board of Directors, Paul will strive to conserve, restore and manage natural resources\nAs Mayor John Tory\u2019s designate on the Executive Committee, Chair of Scarborough Community Council, Member of the Economic Development Committee, as well as holding membership with a number of Boards, Paul will diligently work to ensure Toronto\u2019s residents are well represented.\nServing on the Toronto Public Library Board as Chair, Paul added many social media tools to their portfolio, allowing for residents to interact with their library in a modern and comprehensive manner. Continuing his library role as Chair of Federation of Ontario Public Libraries, Paul strives to ensure our public libraries have an open, positive environment, where residents can gather to learn, have fun, and partake in programming.\nWorking on the Board of Toronto Seniors Housing Corporation, Paul was committed to realizing the vision of the Tenants First report, calling for the creation of seniors-focused housing and associated services with the goal to ensure seniors age in place with dignity and comfort.\nPaul will continue to work for residents through his work in the community and at City Hall. For the 2022 \u2013 2026 term Paul has been appointed to the following committees: Night Economy Champion, Chair of Scarborough Community Council, Executive Committee, Economic and Community Development Committee, Exhibition Place Board of Governors, Toronto Public Library, Toronto Transit Commission, Toronto Zoo Board of Management, Canadian National Exhibition Association, Municipal Section and Board of Directors, Federation of Canadian Municipalities (FCM) Board of Directors, Guild Renaissance Group Board of Directors, Hockey Hall of Fame Board of Directors, Ontario Good Roads Association Board of Directors, Chair of Federation of Ontario Public Libraries and Chair of Toronto and Region Conservation Authority Board of Directors.\nPaul envisions a city where all residents have the tools to utilize an open, accessible, transparent, and accountable local government. Paul hopes this will build public trust and confidence in our municipal government.\n(Information provided by Councillor)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Scarborough-Guildwood",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite C52\nToronto, ON M5H 2N2\nTelephone: 416-392-4008\nEmail: councillor_ainslie@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Constituency Office\nScarborough Civic Centre\n150 Borough Drive, 2nd floor\nScarborough, ON M1P 4N7\nTelephone: 416-396-7222\nEmail: councillor_ainslie_co@toronto.ca"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-government/city-government/council/members-of-council/councillor-ward-24/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:07:28",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Jennifer McKelvie",
+    "first_name": "Jennifer",
+    "last_name": "McKelvie",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "councillor_mckelvie@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2022/11/99cc-Cllr-McKelvie-web.jpg",
+    "bio": "\nDr. Jennifer McKelvie is the Deputy Mayor of Toronto and City Councillor for Scarborough-Rouge Park, which she has represented since 2018.\nIn her additional role as Chair of the Infrastructure and Environment Committee, Deputy Mayor McKelvie is leading the City of Toronto\u2019s efforts to take action on climate change and reach net zero emissions by 2040. She also sits on the Board of the Green Municipal Fund for the Federation of Canadian Municipalities, supporting municipalities across Canada to adopt sustainable practices.\nDr. McKelvie is also a Professional Geoscientist and previously managed research partnerships at the Nuclear Waste Management Organization and the Canadian Institute for Advanced Research. Her peer-reviewed research has been cited more than 1200 times and was supported by numerous national and international awards, including the L\u2019Or\u00e9al/UNESCO Women in Science Fellowship and the Natural Sciences and Engineering Research Council (NSERC) Canada Graduate Scholarship. She is a proud graduate of the University of Toronto Scarborough (B.Sc. Environmental Science) and completed her graduate (Ph.D. 2006) and postdoctoral studies at the University of Toronto.\nCouncillor McKelvie has a longstanding record of community service. She served as the first President of the Scarborough Community Renewal Organization (2016-2018) and as President of the Centennial Community & Recreation Association (2015 to 2017), where she worked with partners to advocate for investment in Scarborough. Jennifer has also served as a member of the UTSC Council (2015-2018), as a citizen member of the Toronto Region Conservation Authority (2015-2018) and as a member of the Scarborough Women of Philanthropy (2015-2018).\n(Information provided by the Member)\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto/Scarborough-Rouge Park",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Toronto City Hall\n100 Queen Street West, Suite B25\nToronto, ON M5H 2N2\nTelephone: 416-338-3771\nEmail: councillor_mckelvie@toronto.ca"
+      },
+      {
+        "type": "Constituency ",
+        "address": "Constituency Office\n4630 Kingston Road, Unit 20\nScarborough, ON M1E 4Z4\nTelephone: 416-338-3771\nEmail: councillor_mckelvie@toronto.ca"
+      }
+    ],
+    "quick_links": [
+      {
+        "url": "https://www.toronto.ca/city-governmenthttps://www.toronto.ca/city-government/council/members-of-council/councillor-ward-25/",
+        "title": "Official Profile"
+      }
+    ],
+    "elected_office": "Councillor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:07:40",
+    "last_request": null
+  },
+  {
+    "id": null,
+    "politician_id": null,
+    "is_primary": true,
+    "name": "Olivia Chow",
+    "first_name": "Olivia",
+    "last_name": "Chow",
+    "gender": null,
+    "birth_date": null,
+    "birth_date_public": false,
+    "email": "mayor_chow@toronto.ca",
+    "group_email": null,
+    "photo_url": "https://www.toronto.ca/wp-content/uploads/2023/07/964c-Olivia-Chow-Photo-350x233.jpg",
+    "bio": "\n\nOlivia Chow, 66th Mayor of Toronto\n\u00a0\n\nOlivia Chow is the 66th Mayor of Toronto, the first person of Asian descent to serve as Mayor, and the first woman since the six municipalities of Metro Toronto were amalgamated into one in 1998.\nBorn in Hong Kong in 1957, Mayor Olivia Chow immigrated to Toronto with her parents at the age of 13, where they moved to an apartment in the St. James Town neighbourhood. Her parents faced the challenges of so many immigrants who have come here to build a new life for their children and make an impact on our city. When Olivia\u2019s father failed to find work in his field and suffered a mental breakdown, her mother worked as a hotel maid to support the family. Through turbulent times at home, Olivia studied hard, graduated from Jarvis Collegiate and then studied Religion and Philosophy at the University of Toronto before studying fine art at OCAD and at the University of Guelph where she completed an Honours BA.\nAfter university, Olivia worked as a sculptor, ESL teacher and a counsellor for new immigrants. She was moved by the plight of the Vietnamese \u201cBoat People\u201d \u2013 refugees who had fled from their war-torn country in search of a better life in Canada. That was the starting point of a lifetime of activism and community organizing.\nPursuing her newfound passion for public service, Olivia was first elected as a TDSB trustee in 1985, where she served for six years. In 1991, Olivia became the first Asian-born woman elected as a Metro Toronto Councillor, where she created lasting programs that continue to help hundreds of thousands of families in Toronto each year. These include programs such as free dental care for children in poverty and the school breakfast and lunch program that helps kids focus on their teachers, not their hunger. She was re-elected to city council five times, serving with distinction for 14 years. While at City Hall, she served as Chair of the Community Services Committee and Vice Chair of the Toronto Transit Commission (TTC) as well as served on the budget committee for a decade.\nWhile still a school trustee, Olivia married then City Councillor Jack Layton in 1988, and they forged one of Canada\u2019s most remarkable political partnerships. For over two decades, they worked together to achieve social justice in Toronto and then on the national stage where Jack served in Parliament as an MP, Leader of the NDP and ultimately Leader of the Official Opposition before his untimely death from cancer in 2011.\nIn 2006, Olivia was elected as the Member of Parliament for Trinity\u2014Spadina and was reelected twice, serving until 2014. While an opposition MP, she introduced an Early Learning and Child Care bill which laid the legislative foundation for a universal, high quality, affordable and non-profit national childcare program. Her bill on a National Public Transit Strategy was widely celebrated by mayors and municipalities from coast to coast.\nAfter leaving federal politics, Olivia wrote \u201cMy Journey\u201d, a book of memoirs chronicling her inspiring life story. In 2015, she joined Toronto Metropolitan University as a Distinguished Visiting Professor where her work focused on community engagement and leadership development. In 2016, she founded the Institute for Change Leaders, providing leadership training and community organizing skills that grass roots activists and organizers need to achieve social change, empowering thousands of people.\nAnd then in 2023, Olivia Chow opened a new chapter in her extraordinary life story when she ran for and won election as Mayor of Toronto, pledging to build a more affordable, safe and caring city where everyone belongs.\nThroughout her career, Olivia has been driven by the belief that we are always stronger together.\n\n",
+    "twitter": null,
+    "linkedin": null,
+    "instagram": null,
+    "facebook": null,
+    "youtube": null,
+    "tiktok": null,
+    "fun_facts": [],
+    "faq": [],
+    "gallery": [],
+    "salutation": null,
+    "gender_pronouns": null,
+    "party_name": null,
+    "gov_level": "municipal",
+    "province": "Ontario",
+    "organization": null,
+    "district_name": "Toronto",
+    "boundary": null,
+    "offices": [
+      {
+        "type": "Office ",
+        "address": "Office of the Mayor\nCity Hall, 2nd Floor\n100 Queen St. W.\nToronto, ON M5H 2N2\nTelephone: 416-397-CITY (2489)"
+      }
+    ],
+    "quick_links": [],
+    "elected_office": "Mayor",
+    "role_type": null,
+    "titles": {},
+    "policy_priorities": null,
+    "message_to_constituent": null,
+    "land_ack": null,
+    "update_date": "2023-11-08 12:07:50",
+    "last_request": null
+  }
+]
