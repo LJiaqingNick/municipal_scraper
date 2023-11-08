@@ -12,8 +12,8 @@ To run this project, you will need Python 3.6+ installed on your machine. To set
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/tobyatgithub/YouCountWorkGroup.git
-    cd YouCountWorkGroup/municipal_scraper
+    git clone https://github.com/LJiaqingNick/municipal_scraper.git
+    cd municipal_scraper
     ```
 2. (Optional) Create a virtual environment:
     Use python's built-in venv module to create a virtual environment. This will allow you to install the required packages without affecting your system's python installation. Link to [venv documentation](https://docs.python.org/3/library/venv.html).
